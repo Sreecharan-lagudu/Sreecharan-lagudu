@@ -43,7 +43,7 @@ With experience in ETL pipelines, model deployment, and automation, I love build
 
 ## 🧠 Academic Projects
 
-### 🥭 [Precision Fruit Counting (YOLOv10)](https://github.com/Sreecharan-lagudu/Precision-Fruit-Counting-YOLOv10)
+### 🥭 [Precision Fruit Counting (YOLOv10)](https://github.com/huongta-fr/DSA07_MVP)
 🔧 *Python, Streamlit, PostgreSQL, Docker, YOLOv10, Transfer Learning*  
 - Built a **real-time fruit detection system (88% mAP)** for yield estimation.  
 - Led a **4-member team** for dataset creation, annotation, and model fine-tuning.
