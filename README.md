@@ -43,7 +43,7 @@ With experience in ETL pipelines, model deployment, and automation, I love build
 
 ## 🧠 Academic Projects
 
-### 🥭 Precision Fruit Counting using YOLOv10
+### 🥭 [Precision Fruit Counting (YOLOv10)](https://github.com/Sreecharan-lagudu/Precision-Fruit-Counting-YOLOv10)
 🔧 *Python, Streamlit, PostgreSQL, Docker, YOLOv10, Transfer Learning*  
 - Built a **real-time fruit detection system (88% mAP)** for yield estimation.  
 - Led a **4-member team** for dataset creation, annotation, and model fine-tuning.
@@ -56,22 +56,21 @@ Interactive BI dashboards analyzing EV stock growth (2010–2024) across countri
 
 ---
 
-
-### 💧 Water Quality Prediction Pipeline
+### 💧 [Water Quality Prediction Pipeline](https://github.com/Sreecharan-lagudu/Water-Quality-ML-Pipeline)
 🔧 *Python, Airflow, FastAPI, PostgreSQL, Docker*  
 - Developed an **end-to-end ML pipeline** with automated ETL, batch predictions, and deployment.  
 - Achieved **91% prediction accuracy** with modularized pipeline design.
 
 ---
 
-### 🖼️ Frameglass Optimization – Kaggle Challenge
+### 🖼️ [Frameglass Optimization (Kaggle Challenge)](https://github.com/Sreecharan-lagudu/Frameglass-Optimization)
 🔧 *Python, Algorithms, MinHash, LSH, Simulated Annealing*  
 - Optimized **image frame ordering and pairing** using heuristic algorithms.  
 - Achieved a **transition score of 773,889 in 8.79 mins**, showcasing algorithmic efficiency.
 
 ---
 
-### 🏠 House Price Modeling Pipeline
+### 🏠 [House Price Modeling Pipeline](https://github.com/Sreecharan-lagudu/House-Price-Modeling)
 🔧 *Python, Scikit-learn, RandomForest, Joblib*  
 - Built and deployed a **modular ML pipeline** for price prediction using structured data.
 
