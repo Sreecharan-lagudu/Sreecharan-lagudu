@@ -56,7 +56,7 @@ Interactive BI dashboards analyzing EV stock growth (2010–2024) across countri
 
 ---
 
-### 💧 [Water Quality Prediction Pipeline](https://github.com/Sreecharan-lagudu/Water-Quality-ML-Pipeline)
+### 💧 [Water Quality Prediction Pipeline](https://github.com/Sreecharan-lagudu/Water-Quality-Prediction---ML-Pipeline-Project)
 🔧 *Python, Airflow, FastAPI, PostgreSQL, Docker*  
 - Developed an **end-to-end ML pipeline** with automated ETL, batch predictions, and deployment.  
 - Achieved **91% prediction accuracy** with modularized pipeline design.
