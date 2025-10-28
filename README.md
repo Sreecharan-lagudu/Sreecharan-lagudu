@@ -51,7 +51,7 @@ With experience in ETL pipelines, model deployment, and automation, I love build
 ---
 
 ### 🌍 [Global EV Stocks Analysis](https://github.com/Sreecharan-lagudu/EV-Stocks-Global-Analysis)
-*Tableau, SQL, Excel, Data Modeling (Snowflake)*  
+🔧 *Tableau, SQL, Excel, Data Modeling (Snowflake)*  
 Interactive BI dashboards analyzing EV stock growth (2010–2024) across countries using Our World in Data dataset.
 
 ---
