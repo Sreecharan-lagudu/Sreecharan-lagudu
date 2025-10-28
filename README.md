@@ -63,14 +63,14 @@ Interactive BI dashboards analyzing EV stock growth (2010–2024) across countri
 
 ---
 
-### 🖼️ [Frameglass Optimization (Kaggle Challenge)](https://github.com/Sreecharan-lagudu/Frameglass-Optimization)
+### 🖼️ [Frameglass Optimization (Kaggle Challenge)]
 🔧 *Python, Algorithms, MinHash, LSH, Simulated Annealing*  
 - Optimized **image frame ordering and pairing** using heuristic algorithms.  
 - Achieved a **transition score of 773,889 in 8.79 mins**, showcasing algorithmic efficiency.
 
 ---
 
-### 🏠 [House Price Modeling Pipeline](https://github.com/Sreecharan-lagudu/House-Price-Modeling)
+### 🏠 [House Price Modeling Pipeline]
 🔧 *Python, Scikit-learn, RandomForest, Joblib*  
 - Built and deployed a **modular ML pipeline** for price prediction using structured data.
 
