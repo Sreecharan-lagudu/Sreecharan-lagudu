@@ -19,7 +19,7 @@ With experience in ETL pipelines, model deployment, and automation, I love build
 ## 💼 Experience
 
 ### 🔹 System Analyst – C-Edge Technologies (TCS–SBI Joint Venture)
-📍 Hyderabad, India | 🗓️ *Sept 2020 – Mar 2024*
+📍 Hyderabad, India | 🗓️ *Sept 2021 – Nov 2023*
 
 - Maintained and optimized large-scale **banking applications** using *COBOL, SQL, and DB2*.  
 - Automated data reporting workflows with **Python + SQL**, cutting manual efforts by **20%**.  
