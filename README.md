@@ -1,8 +1,8 @@
 # 👋 Hi there! I'm **Sree Charan Lagudu**
 
 🎓 **Master’s Student in Data Science & Analytics @ EPITA, Paris**  
-🤖 *Data & ML Product Enthusiast | Data Engineer | Machine Learning Developer*  
-🌍 Open to **Internship Opportunities** in Data/ML across Europe (France, Germany, Netherlands, Luxembourg, Belgium, Switzerland, Italy)
+🤖 *Data & ML Product Enthusiast | Data Science | Data Analytics| Machine Learning Developer*  
+🌍 Open to **Data Science / Data Analytics Opportunities** across Europe (France, Germany, Netherlands, Luxembourg, Belgium, Switzerland, Italy)
 
 ---
 
