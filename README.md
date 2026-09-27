@@ -38,5 +38,3 @@
 🌱 Currently learning: Advanced Analytics, Machine Learning, Generative AI
 
 ---
-
-⭐ Feel free to explore my projects and connect!
