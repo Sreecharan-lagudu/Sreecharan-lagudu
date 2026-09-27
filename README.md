@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sree Charan Lagudu
 
-**MSc Data Science & Analytics @ EPITA, Paris** | Data Analyst with 2+ years of industry experience
+**MSc Data Science & Analytics @ EPITA, Paris**   Data Analyst with 2+ years of industry experience
 
 📍 Vitry-sur-Seine, France · 📫 sree-charan.lagudu@epita.fr · 💼 [LinkedIn](https://www.linkedin.com/in/sree-charan-lagudu97) · 🌍 Open to Data/ML opportunities across Europe
 
@@ -26,14 +26,13 @@
 - **B.Tech Electrical & Electronics Engineering** — Godavari Institute of Engineering & Technology, India (2015–2019)
 
 ## 🛠 Skills
-
-| Area | Tools |
-|---|---|
-| Programming | Python, SQL, C |
-| Data Analytics | EDA, KPI Analysis, Statistical Analysis, Customer Behavior Analysis |
-| Visualization | Tableau, Power BI, Excel, Matplotlib |
-| Data Engineering | Airflow, Docker, PostgreSQL, BigQuery, FastAPI, Git |
-| Machine Learning | Pandas, NumPy, scikit-learn, Computer Vision, NLP |
+ | Area | Tools |
+ |---|---|
+ | Programming | Python, SQL, C |
+ | Data Analytics | EDA, KPI Analysis, Statistical Analysis, Customer Behavior Analysis |
+ | Visualization | Tableau, Power BI, Excel, Matplotlib |
+ | Data Engineering | Airflow, Docker, PostgreSQL, BigQuery, FastAPI, Git |
+ | Machine Learning | Pandas, NumPy, scikit-learn, Computer Vision, NLP |
 
 🌱 Currently learning: Advanced Analytics, Machine Learning, Generative AI
 
