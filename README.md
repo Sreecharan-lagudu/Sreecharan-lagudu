@@ -2,7 +2,7 @@
 
 **MSc Data Science & Analytics @ EPITA, Paris** | Data Analyst with 2+ years of industry experience
 
-📍 Vitry-sur-Seine, France · 📫 sree-charan.lagudu@epita.fr · 💼 [LinkedIn](https://www.linkedin.com/in/) · 🌍 Open to Data/ML opportunities across Europe
+📍 Vitry-sur-Seine, France · 📫 sree-charan.lagudu@epita.fr · 💼 [LinkedIn](https://www.linkedin.com/in/sree-charan-lagudu97) · 🌍 Open to Data/ML opportunities across Europe
 
 ---
 
@@ -38,3 +38,5 @@
 🌱 Currently learning: Advanced Analytics, Machine Learning, Generative AI
 
 ---
+
+⭐ Feel free to explore my projects and connect!
