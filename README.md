@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Sree Charan Lagudu
 
-**MSc Data Science & Analytics @ EPITA, Paris**   Data Analyst with 2+ years of industry experience
-
-📍 Vitry-sur-Seine, France · 📫 sree-charan.lagudu@epita.fr · 💼 [LinkedIn](https://www.linkedin.com/in/sree-charan-lagudu97) · 🌍 Open to Data/ML opportunities across Europe
+**MSc Data Science & Analytics @ EPITA, Paris**   Assistant System Analyst (C-EDGE Technologies — TCS × SBI JV) with 2+ years of industry experience
+📍 Vitry-sur-Seine, France · 📫 sree-charan.lagudu@epita.fr · 💼 [LinkedIn](https://www.linkedin.com/in/sree-charan-lagudu97) · 🌐 **[Portfolio](https://sreecharan-lagudu.github.io)** · 🌍 Open to Data/ML opportunities across Europe
 
 ---
 
