@@ -9,6 +9,7 @@
 ## 🚀 Featured Projects
 
 - 🥭 **[Precision Fruit Counting with YOLOv10](https://github.com/Sreecharan-lagudu/YOLOV10)** — Computer vision platform (YOLOv9/v10, Faster R-CNN) achieving **88% mAP**, with yield & revenue estimation via live weather/market APIs. Dockerized, led a 4-member team.
+- 📉 **[Customer Churn Predictor — Explainable AI](https://github.com/Sreecharan-lagudu/churn-predictor)** — Predicts which telecom customers will leave, and explains *why* per customer with SHAP. Best of 3 models by cross-validated AUC (0.845). 🚀 **Live demo**
 - 💧 **[Water Quality Prediction Pipeline](https://github.com/Sreecharan-lagudu/Water-Quality-Prediction---ML-Pipeline-Project)** — End-to-end MLOps pipeline (Airflow, Great Expectations, FastAPI, Streamlit, PostgreSQL, Grafana) achieving **91% prediction accuracy**.
 - 🌍 **[Global EV Stock Analysis](https://github.com/Sreecharan-lagudu/EV-Stocks-Global-Analysis)** — Tableau BI dashboards on a snowflake data model, analyzing EV adoption across countries (2010–2024). EPITA BI coursework.
 - 🧠 **[NLP Emotion Classification](https://github.com/Sreecharan-lagudu/NLP_Emotions_Dataset_Exam)** — Comparing FCNN, Bi-LSTM, and fine-tuned BERT on 6-class emotion classification.
