@@ -1,26 +1,19 @@
 <div align="center">
 
-![English](https://img.shields.io/badge/🇬🇧-English-blue)
-![Français](https://img.shields.io/badge/🇫🇷-Français-blue)
-
-</div>
-
----
-
-<a name="-english"></a>
-# 👋 Hi, I'm Sree Charan Lagudu
-
-<div align="center">
-
-![](https://img.shields.io/badge/EPITA-MSc%20Data%20Science%20%26%20Analytics-blue)
-![](https://img.shields.io/badge/Open%20to-Data%2FML%20Internships-brightgreen)
-![](https://img.shields.io/badge/Location-Paris%2C%20France-red)
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%F0%9F%93%8A;MSc+Data+Science+%40+EPITA%2C+Paris;Python+%7C+SQL+%7C+ML+%7C+BI;Turning+data+into+decisions)
 
 </div>
 
+<details open>
+<summary><b>🇬🇧 English</b></summary>
+
 ---
+
+# 👋 Hi, I'm Sree Charan Lagudu
+
+![](https://img.shields.io/badge/EPITA-MSc%20Data%20Science%20%26%20Analytics-blue)
+![](https://img.shields.io/badge/Open%20to-Data%2FML%20Internships-brightgreen)
+![](https://img.shields.io/badge/Location-Paris%2C%20France-red)
 
 ## 🚀 Featured Projects
 
@@ -36,8 +29,6 @@ Tableau BI dashboards on a snowflake data model — EV adoption across countries
 ### 🧠 [NLP Emotion Classification](https://github.com/Sreecharan-lagudu/NLP_Emotions_Dataset_Exam)
 Comparing FCNN, Bi-LSTM & fine-tuned BERT on 6-class emotion classification
 
----
-
 ## 💼 Experience
 
 **System Analyst — C-EDGE Technologies Ltd.** (TCS–SBI enterprise) · Hyderabad, India · *Aug 2021 – Nov 2023*
@@ -45,24 +36,14 @@ Comparing FCNN, Bi-LSTM & fine-tuned BERT on 6-class emotion classification
 - Automated reporting workflows with Python & SQL, **reducing manual effort by 20%**
 - Built ETL processes for cleaning, transforming, and validating high-volume transaction data
 
----
-
 ## 📊 GitHub Stats
 
-<div align="center">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sreecharan-lagudu&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreecharan-lagudu&layout=compact&theme=tokyonight)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sreecharan-lagudu&show_icons=true&theme=tokyonight)](https://github.com/Sreecharan-lagudu)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreecharan-lagudu&layout=compact&theme=tokyonight)](https://github.com/Sreecharan-lagudu)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sreecharan-lagudu&theme=tokyonight)](https://github.com/Sreecharan-lagudu)
-
-</div>
-
----
+![GitHub Streak](https://streak-stats.demolab.com?user=Sreecharan-lagudu&theme=tokyonight)
 
 ## 🛠 Tech Stack
-
-<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -79,36 +60,23 @@ Comparing FCNN, Bi-LSTM & fine-tuned BERT on 6-class emotion classification
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-</div>
-
----
-
 ## 📫 Reach Me
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sree-charan-lagudu97)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sree-charan.lagudu@epita.fr)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sreecharan-lagudu)
 
-</div>
+</details>
+
+<details>
+<summary><b>🇫🇷 Français</b></summary>
 
 ---
 
-<a name="-français"></a>
 # 👋 Bonjour, je suis Sree Charan Lagudu
-
-<div align="center">
 
 ![](https://img.shields.io/badge/EPITA-Master%20Data%20Science%20%26%20Analytics-blue)
 ![](https://img.shields.io/badge/Ouvert%20aux-Stages%20Data%2FML-brightgreen)
 ![](https://img.shields.io/badge/Localisation-Paris%2C%20France-red)
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%F0%9F%93%8A;Master+Data+Science+%40+EPITA%2C+Paris;Python+%7C+SQL+%7C+ML+%7C+BI)
-
-</div>
-
----
 
 ## 🚀 Projets en Vedette
 
@@ -124,8 +92,6 @@ Tableaux de bord Tableau sur un modèle en flocon — adoption des VE par pays (
 ### 🧠 [Classification d'Émotions NLP](https://github.com/Sreecharan-lagudu/NLP_Emotions_Dataset_Exam)
 Comparaison de FCNN, Bi-LSTM et BERT affiné sur 6 classes d'émotions
 
----
-
 ## 💼 Expérience
 
 **System Analyst — C-EDGE Technologies Ltd.** (TCS–SBI) · Hyderabad, Inde · *Août 2021 – Nov 2023*
@@ -133,16 +99,12 @@ Comparaison de FCNN, Bi-LSTM et BERT affiné sur 6 classes d'émotions
 - Automatisation des flux de reporting avec Python & SQL, **réduction de l'effort manuel de 20%**
 - Construction de processus ETL pour valider des volumes élevés de transactions
 
----
-
 ## 📫 Contact
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sree-charan-lagudu97)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sree-charan.lagudu@epita.fr)
 
-</div>
+</details>
 
 ---
 
