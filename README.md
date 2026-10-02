@@ -110,6 +110,4 @@ Comparaison de FCNN, Bi-LSTM et BERT affiné sur 6 classes d'émotions
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=Sreecharan-lagudu&color=blueviolet&style=flat-square)
-
 </div>
