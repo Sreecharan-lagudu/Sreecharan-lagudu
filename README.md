@@ -1,17 +1,42 @@
+<div align="center">
+
+![English](https://img.shields.io/badge/🇬🇧-English-blue)
+![Français](https://img.shields.io/badge/🇫🇷-Français-blue)
+
+</div>
+
+---
+
+<a name="-english"></a>
 # 👋 Hi, I'm Sree Charan Lagudu
 
-**MSc Data Science & Analytics @ EPITA, Paris**   Assistant System Analyst (C-EDGE Technologies — TCS × SBI JV) with 2+ years of industry experience
-📍 Vitry-sur-Seine, France · 📫 sree-charan.lagudu@epita.fr · 💼 [LinkedIn](https://www.linkedin.com/in/sree-charan-lagudu97) · 🌐 **[Portfolio](https://sreecharan-lagudu.github.io)** · 🌍 Open to Data/ML opportunities across Europe
+<div align="center">
+
+![](https://img.shields.io/badge/EPITA-MSc%20Data%20Science%20%26%20Analytics-blue)
+![](https://img.shields.io/badge/Open%20to-Data%2FML%20Internships-brightgreen)
+![](https://img.shields.io/badge/Location-Paris%2C%20France-red)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%F0%9F%93%8A;MSc+Data+Science+%40+EPITA%2C+Paris;Python+%7C+SQL+%7C+ML+%7C+BI;Turning+data+into+decisions)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🥭 **[Precision Fruit Counting with YOLOv10](https://github.com/Sreecharan-lagudu/YOLOV10)** — Computer vision platform (YOLOv9/v10, Faster R-CNN) achieving **88% mAP**, with yield & revenue estimation via live weather/market APIs. Dockerized, led a 4-member team.
-- 📉 **[Customer Churn Predictor — Explainable AI](https://github.com/Sreecharan-lagudu/churn-predictor)** — Predicts which telecom customers will leave, and explains *why* per customer with SHAP. Best of 3 models by cross-validated AUC (0.845). 🚀 **[Live demo](https://churn-predictor-eljxvhhaup5s99vgref6oj.streamlit.app/)**
-- 💧 **[Water Quality Prediction Pipeline](https://github.com/Sreecharan-lagudu/Water-Quality-Prediction---ML-Pipeline-Project)** — End-to-end MLOps pipeline (Airflow, Great Expectations, FastAPI, Streamlit, PostgreSQL, Grafana) achieving **91% prediction accuracy**.
-- 🌍 **[Global EV Stock Analysis](https://github.com/Sreecharan-lagudu/EV-Stocks-Global-Analysis)** — Tableau BI dashboards on a snowflake data model, analyzing EV adoption across countries (2010–2024). EPITA BI coursework.
-- 🧠 **[NLP Emotion Classification](https://github.com/Sreecharan-lagudu/NLP_Emotions_Dataset_Exam)** — Comparing FCNN, Bi-LSTM, and fine-tuned BERT on 6-class emotion classification.
+### 🥭 [Precision Fruit Counting with YOLOv10](https://github.com/Sreecharan-lagudu/YOLOV10)
+Computer vision platform for fruit detection & yield estimation — YOLOv9/v10, Faster R-CNN · **88% mAP** · Dockerized · led a 4-member team
+
+### 💧 [Water Quality Prediction Pipeline](https://github.com/Sreecharan-lagudu/Water-Quality-Prediction---ML-Pipeline-Project)
+End-to-end MLOps pipeline — Airflow, Great Expectations, FastAPI, Streamlit, PostgreSQL, Grafana · **91% prediction accuracy**
+
+### 🌍 [Global EV Stock Analysis](https://github.com/Sreecharan-lagudu/EV-Stocks-Global-Analysis)
+Tableau BI dashboards on a snowflake data model — EV adoption across countries (2010–2024) · EPITA BI coursework
+
+### 🧠 [NLP Emotion Classification](https://github.com/Sreecharan-lagudu/NLP_Emotions_Dataset_Exam)
+Comparing FCNN, Bi-LSTM & fine-tuned BERT on 6-class emotion classification
+
+---
 
 ## 💼 Experience
 
@@ -20,22 +45,109 @@
 - Automated reporting workflows with Python & SQL, **reducing manual effort by 20%**
 - Built ETL processes for cleaning, transforming, and validating high-volume transaction data
 
-## 🎓 Education
+---
 
-- **MSc Data Science & Analytics** — EPITA, Le Kremlin-Bicêtre, France (2024–present)
-- **B.Tech Electrical & Electronics Engineering** — Godavari Institute of Engineering & Technology, India (2015–2019)
+## 📊 GitHub Stats
 
-## 🛠 Skills
- | Area | Tools |
- |---|---|
- | Programming | Python, SQL, C |
- | Data Analytics | EDA, KPI Analysis, Statistical Analysis, Customer Behavior Analysis |
- | Visualization | Tableau, Power BI, Excel, Matplotlib |
- | Data Engineering | Airflow, Docker, PostgreSQL, BigQuery, FastAPI, Git |
- | Machine Learning | Pandas, NumPy, scikit-learn, Computer Vision, NLP |
+<div align="center">
 
-🌱 Currently learning: Advanced Analytics, Machine Learning, Generative AI
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sreecharan-lagudu&show_icons=true&theme=tokyonight)](https://github.com/Sreecharan-lagudu)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreecharan-lagudu&layout=compact&theme=tokyonight)](https://github.com/Sreecharan-lagudu)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sreecharan-lagudu&theme=tokyonight)](https://github.com/Sreecharan-lagudu)
+
+</div>
 
 ---
 
-⭐ Feel free to explore my projects and connect!
+## 🛠 Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+
+---
+
+## 📫 Reach Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sree-charan-lagudu97)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sree-charan.lagudu@epita.fr)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sreecharan-lagudu)
+
+</div>
+
+---
+
+<a name="-français"></a>
+# 👋 Bonjour, je suis Sree Charan Lagudu
+
+<div align="center">
+
+![](https://img.shields.io/badge/EPITA-Master%20Data%20Science%20%26%20Analytics-blue)
+![](https://img.shields.io/badge/Ouvert%20aux-Stages%20Data%2FML-brightgreen)
+![](https://img.shields.io/badge/Localisation-Paris%2C%20France-red)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%F0%9F%93%8A;Master+Data+Science+%40+EPITA%2C+Paris;Python+%7C+SQL+%7C+ML+%7C+BI)
+
+</div>
+
+---
+
+## 🚀 Projets en Vedette
+
+### 🥭 [Comptage de Fruits avec YOLOv10](https://github.com/Sreecharan-lagudu/YOLOV10)
+Plateforme de vision par ordinateur pour la détection de fruits et l'estimation du rendement — YOLOv9/v10, Faster R-CNN · **88% mAP** · Dockerisée · équipe de 4 personnes
+
+### 💧 [Pipeline de Prédiction de la Qualité de l'Eau](https://github.com/Sreecharan-lagudu/Water-Quality-Prediction---ML-Pipeline-Project)
+Pipeline MLOps de bout en bout — Airflow, Great Expectations, FastAPI, Streamlit, PostgreSQL, Grafana · **91% de précision**
+
+### 🌍 [Analyse Mondiale du Stock de Véhicules Électriques](https://github.com/Sreecharan-lagudu/EV-Stocks-Global-Analysis)
+Tableaux de bord Tableau sur un modèle en flocon — adoption des VE par pays (2010–2024) · Projet BI EPITA
+
+### 🧠 [Classification d'Émotions NLP](https://github.com/Sreecharan-lagudu/NLP_Emotions_Dataset_Exam)
+Comparaison de FCNN, Bi-LSTM et BERT affiné sur 6 classes d'émotions
+
+---
+
+## 💼 Expérience
+
+**System Analyst — C-EDGE Technologies Ltd.** (TCS–SBI) · Hyderabad, Inde · *Août 2021 – Nov 2023*
+- Analyse de grandes bases de données bancaires avec SQL : tendances, KPI, décisions métier
+- Automatisation des flux de reporting avec Python & SQL, **réduction de l'effort manuel de 20%**
+- Construction de processus ETL pour valider des volumes élevés de transactions
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sree-charan-lagudu97)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sree-charan.lagudu@epita.fr)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=Sreecharan-lagudu&color=blueviolet&style=flat-square)
+
+</div>
