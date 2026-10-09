@@ -35,9 +35,6 @@ Production-style ML pipeline — **Airflow** orchestration, **Great Expectations
 ### 🥭 [Fruit Yield Estimation with YOLOv10](https://github.com/Sreecharan-lagudu/YOLOV10)
 Computer vision platform for fruit detection & revenue estimation — YOLOv9/v10 vs Faster R-CNN · **88% mAP** · Dockerized · led a 4-member team
 
-### 🏏 [CricketVision — Ball Tracking & Coaching PWA](https://github.com/Sreecharan-lagudu/cricket-vision)
-Real-time cricket ball tracking from camera or video: **speed, swing, line & length** + coach tips, bowler profiles, history analytics & CSV export. Installable PWA, works offline, in **4 languages** (EN · HI · TE · TA).
-
 ### 🌍 [Global EV Stock Analysis — Tableau BI](https://github.com/Sreecharan-lagudu/EV-Stocks-Global-Analysis)
 Interactive Tableau dashboards on a snowflake data model — EV adoption across countries (2010–2024) · EPITA BI coursework
 
@@ -119,9 +116,6 @@ Pipeline MLOps de bout en bout — Airflow, Great Expectations, FastAPI, Streaml
 
 ### 🥭 [Comptage de Fruits avec YOLOv10](https://github.com/Sreecharan-lagudu/YOLOV10)
 Vision par ordinateur pour la détection de fruits et l'estimation du rendement — **88% mAP** · Dockerisée · équipe de 4 personnes
-
-### 🏏 [CricketVision — Suivi de Balle & Coaching](https://github.com/Sreecharan-lagudu/cricket-vision)
-PWA de suivi de balle en temps réel : vitesse, swing, trajectoire + conseils de coach · 4 langues
 
 ### 🌍 [Analyse Mondiale du Stock de Véhicules Électriques](https://github.com/Sreecharan-lagudu/EV-Stocks-Global-Analysis)
 Tableaux de bord Tableau sur un modèle en flocon — adoption des VE par pays (2010–2024)
