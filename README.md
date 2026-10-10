@@ -6,7 +6,7 @@
 
 **Hi, I'm Sree Charan Lagudu** 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=MSc+Data+Science+%40+EPITA%2C+Paris;Data+Scientist+%C2%B7+ML+Engineer+%C2%B7+BI+Analyst;Python+%7C+SQL+%7C+ML+%7C+BI;Turning+data+into+decisions+%F0%9F%93%88)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=MSc+Data+Science+%40+EPITA%2C+Paris;Data+Analyst+%C2%B7+Data+Scientist+%C2%B7+ML+Engineer;Python+%7C+SQL+%7C+ML+%7C+BI;Turning+data+into+decisions+%F0%9F%93%88)
 
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-sreecharan--lagudu.github.io-36BCF7?style=for-the-badge)](https://sreecharan-lagudu.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sree-charan-lagudu97)
