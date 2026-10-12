@@ -74,15 +74,6 @@ Interactive Tableau dashboards on a snowflake data model — EV adoption across 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sreecharan-lagudu&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreecharan-lagudu&layout=compact&theme=tokyonight" alt="Top languages" />
-<br/>
-<img src="https://streak-stats.demolab.com?user=Sreecharan-lagudu&theme=tokyonight" alt="GitHub streak" />
-</p>
-
 ## 📫 Let's Connect
 
 I'm actively looking for a **6-month Data/ML internship in Europe** (France · Germany · Netherlands · Luxembourg · Belgium · Switzerland). My full story, projects and dashboards live on my **[portfolio](https://sreecharan-lagudu.github.io)** — or reach me directly:
