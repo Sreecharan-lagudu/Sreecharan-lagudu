@@ -12,9 +12,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sree-charan-lagudu97)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sree-charan.lagudu@epita.fr)
 
-<img src="https://img.shields.io/badge/EPITA-MSc%20Data%20Science%20%26%20Analytics-blue" alt="badge" />
-<img src="https://img.shields.io/badge/📍-Paris%2C%20France-red" alt="badge" />
-<img src="https://img.shields.io/badge/Open%20to-6--month%20Data%2FML%20Internships-brightgreen" alt="badge" />
+🎓 MSc Data Science & Analytics @ EPITA
+📍 Paris, France
+🟢 Open to 6-month Data/ML internships in Europe
 
 </div>
 
@@ -50,29 +50,13 @@ Interactive Tableau dashboards on a snowflake data model — EV adoption across 
 
 ## 🛠️ Tech Stack
 
-**Languages & Data**
+**Languages & Data** — 🐍 Python · 🐼 Pandas · 🐘 PostgreSQL
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+**ML & Data Engineering** — 🧠 TensorFlow · 🌬️ Airflow · ⚡ FastAPI · 🎈 Streamlit
 
-**ML & Data Engineering**
+**BI & Visualization** — 📊 Power BI · 📈 Tableau
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-
-**BI & Visualization**
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-
-**Cloud & DevOps**
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+**Cloud & DevOps** — 🐳 Docker · ☁️ AWS · 🌿 Git
 
 ## 📫 Let's Connect
 
@@ -90,9 +74,9 @@ I'm actively looking for a **6-month Data/ML internship in Europe** (France · G
 
 ## 👋 Bonjour, je suis Sree Charan Lagudu
 
-<img src="https://img.shields.io/badge/EPITA-Master%20Data%20Science%20%26%20Analytics-blue" alt="badge" />
-<img src="https://img.shields.io/badge/Ouvert%20aux-Stages%20Data%2FML-brightgreen" alt="badge" />
-<img src="https://img.shields.io/badge/Localisation-Paris%2C%20France-red" alt="badge" />
+🎓 Master Data Science & Analytics @ EPITA
+🟢 Ouvert aux stages Data/ML (6 mois)
+📍 Paris, France
 
 📍 Étudiant en Master Data Science & Analytics à l'EPITA (Paris), je recherche un **stage de 6 mois en Data Science / BI / ML**. Retrouvez mes projets et tableaux de bord sur mon **[portfolio](https://sreecharan-lagudu.github.io)**.
 
@@ -131,8 +115,6 @@ Comparaison de FCNN, Bi-LSTM et BERT affiné sur 6 classes d'émotions
 ---
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc-reader/?username=Sreecharan-lagudu&color=36BCF7&style=flat-square&label=PROFILE+VIEWS" alt="badge" />
 
 </div>
 
