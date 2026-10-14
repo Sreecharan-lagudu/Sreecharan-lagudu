@@ -8,12 +8,12 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=MSc+Data+Science+%40+EPITA%2C+Paris;Data+Analyst+%C2%B7+Data+Scientist+%C2%B7+ML+Engineer;Python+%7C+SQL+%7C+ML+%7C+BI;Turning+data+into+decisions+%F0%9F%93%88)
 
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-sreecharan--lagudu.github.io-36BCF7?style=for-the-badge)](https://sreecharan-lagudu.github.io)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_PORTFOLIO-sreecharan--lagudu.github.io-36BCF7?style=for-the-badge)](https://sreecharan-lagudu.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sree-charan-lagudu97)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sree-charan.lagudu@epita.fr)
 
 ![](https://img.shields.io/badge/EPITA-MSc%20Data%20Science%20%26%20Analytics-blue)
-![](https://img.shields.io/badge/📍-Paris%2C%20France-red)
+![](https://img.shields.io/badge/%F0%9F%93%8D-Paris%2C%20France-red)
 ![](https://img.shields.io/badge/Open%20to-6--month%20Data%2FML%20Internships-brightgreen)
 
 </div>
@@ -24,6 +24,9 @@
 ---
 
 ## 🚀 Featured Projects
+
+### 🌊 [FloodWatch — Street-Level Flood Alerts](https://github.com/Sreecharan-lagudu/Floodwatch)
+Near-real-time, street-by-street flood prediction for Chennai (Smart India Hackathon 2026 · SIH26085). Couples rainfall nowcasts with DEM terrain, flow accumulation and drainage-deficit proxies into an **explainable per-street risk score (0–100)** — calibrated against the Dec 2015 flood ground truth, with a live **Streamlit + Folium alert map**, mock SMS dispatch and a one-command synthetic demo.
 
 ### 📉 [Customer Churn Predictor — Explainable AI](https://github.com/Sreecharan-lagudu/churn-predictor)
 [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://churn-predictor-eljxvhhaup5s99vgref6oj.streamlit.app/)
@@ -97,6 +100,9 @@ I'm actively looking for a **6-month Data/ML internship in Europe** (France · G
 📍 Étudiant en Master Data Science & Analytics à l'EPITA (Paris), je recherche un **stage de 6 mois en Data Science / BI / ML**. Retrouvez mes projets et tableaux de bord sur mon **[portfolio](https://sreecharan-lagudu.github.io)**.
 
 ## 🚀 Projets en Vedette
+
+### 🌊 [FloodWatch — Alertes d'Inondation par Rue](https://github.com/Sreecharan-lagudu/Floodwatch)
+Prédiction d'inondation **rue par rue** pour Chennai (Smart India Hackathon 2026) : nowcasts de pluie + terrain DEM + accumulation de flux + proxys de drainage → score de risque **explicable** par segment de rue, validé sur l'inondation de déc. 2015 · carte d'alerte **Streamlit + Folium** · démo synthétique en une commande.
 
 ### 📉 [Prédiction de Churn Client — IA Explicable](https://github.com/Sreecharan-lagudu/churn-predictor)
 [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://churn-predictor-eljxvhhaup5s99vgref6oj.streamlit.app/)
