@@ -26,7 +26,8 @@
 ## 🚀 Featured Projects
 
 ### 🌊 [FloodWatch — Street-Level Flood Alerts](https://github.com/Sreecharan-lagudu/Floodwatch)
-Near-real-time, street-by-street flood prediction for Chennai (Smart India Hackathon 2026 · SIH26085). Couples rainfall nowcasts with DEM terrain, flow accumulation and drainage-deficit proxies into an **explainable per-street risk score (0–100)** — calibrated against the Dec 2015 flood ground truth, with a live **Streamlit + Folium alert map**, mock SMS dispatch and a one-command synthetic demo.
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://floodwatch.streamlit.app)
+Near-real-time, street-by-street flood prediction for **16 flood-prone cities across India** (Smart India Hackathon 2026 · SIH26085): searchable city/state selector, terrain-aware risk models (coastal · river · delta · inland). Couples rainfall nowcasts with DEM terrain, flow accumulation and drainage-deficit proxies into an **explainable per-street risk score (0–100)** — validated with precision/recall/F1 + ROC-AUC against flood ground truth, with a live **Streamlit + Folium alert map**, click-to-inspect streets, mock SMS dispatch, and auto-deploying CI.
 
 ### 📉 [Customer Churn Predictor — Explainable AI](https://github.com/Sreecharan-lagudu/churn-predictor)
 [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://churn-predictor-eljxvhhaup5s99vgref6oj.streamlit.app/)
@@ -102,7 +103,8 @@ I'm actively looking for a **6-month Data/ML internship in Europe** (France · G
 ## 🚀 Projets en Vedette
 
 ### 🌊 [FloodWatch — Alertes d'Inondation par Rue](https://github.com/Sreecharan-lagudu/Floodwatch)
-Prédiction d'inondation **rue par rue** pour Chennai (Smart India Hackathon 2026) : nowcasts de pluie + terrain DEM + accumulation de flux + proxys de drainage → score de risque **explicable** par segment de rue, validé sur l'inondation de déc. 2015 · carte d'alerte **Streamlit + Folium** · démo synthétique en une commande.
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://floodwatch.streamlit.app)
+Prédiction d'inondation **rue par rue** pour **16 villes en Inde** (Smart India Hackathon 2026) : recherche par ville/état, modèles par type de terrain (côtier · fluvial · delta · intérieur) · score de risque **explicable** validé (précision/rappel/F1 + ROC-AUC) · carte d'alerte **Streamlit + Folium** en ligne · inspection au clic · CI auto-déployé.
 
 ### 📉 [Prédiction de Churn Client — IA Explicable](https://github.com/Sreecharan-lagudu/churn-predictor)
 [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://churn-predictor-eljxvhhaup5s99vgref6oj.streamlit.app/)
